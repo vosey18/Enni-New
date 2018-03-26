@@ -459,3 +459,15 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 	margin-right:10%;
 	margin-bottom:10%;
 }
+
+@media (max-width: 800px) {
+    
+    .Founders{
+		display:grid;
+        grid-template-columns:1fr;
+    }
+    
+    .Devs {
+		display:grid;
+		grid-template-columns:1fr;
+}
