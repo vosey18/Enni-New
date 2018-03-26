@@ -444,14 +444,14 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 	margin-top: 1%;
 	margin-left:10%;
 	margin-right:10%;
-	min-width: 500px;
 }
 
 
 .Devs{
 	display:grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	grid-column-start:;
+	grid-column-start:1;
+	padding: 10px;
 	margin-top:5%;
 	margin-left:10%;
 	margin-right:10%;
