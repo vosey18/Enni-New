@@ -463,11 +463,11 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 @media (max-width: 800px) {
     
     .Founders{
-		display:grid;
+	display:grid;
         grid-template-columns:1fr;
     }
     
     .Devs {
-		display:grid;
-		grid-template-columns:1fr;
+	display:grid;
+	grid-template-columns:1fr;
 }
