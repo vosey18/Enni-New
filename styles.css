@@ -436,7 +436,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   padding: 15px 45px;
 }
 
-.Founders{
+.Supported-by{
 	display:grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-column-start:1;
@@ -445,6 +445,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 	margin-left:10%;
 	margin-right:10%;
 	margin-bottom:10%;
+    vertical-align: baseline;
 
 }
 
